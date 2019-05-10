@@ -99,6 +99,12 @@ h2:hover {
   justify-content: center;
   height: 165px;
   overflow: scroll;
+  transition: all .5s;
+  background-color: none;
+}
+
+.container-grid div:hover {
+  background-color: white;
 }
 
 ::-webkit-scrollbar {
