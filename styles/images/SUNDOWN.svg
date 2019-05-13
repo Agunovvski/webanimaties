@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>SUNDOWN</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SUNDOWN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="straal" transform="translate(12.000000, 53.000000)" stroke="#F5A623">
+            <path d="M87.9603936,0 L87.9603936,38.3250148" id="Straal-1"></path>
+            <path d="M115.959124,5.95131392 L115.959124,44.2763288" id="Straal-2" transform="translate(115.959124, 25.113821) rotate(24.000000) translate(-115.959124, -25.113821) "></path>
+            <path d="M139.11662,22.7762194 L139.11662,61.1012343" id="Straal-3" transform="translate(139.116620, 41.938727) rotate(48.000000) translate(-139.116620, -41.938727) "></path>
+            <path d="M153.428739,47.5655375 L153.428739,85.8905524" id="Straal-4" transform="translate(153.428739, 66.728045) rotate(72.000000) translate(-153.428739, -66.728045) "></path>
+            <path d="M156.420787,74.0329699 L156.420787,112.357985" id="Straal-5" transform="translate(156.420787, 93.195477) rotate(-90.000000) translate(-156.420787, -93.195477) "></path>
+            <path d="M19.5,74.0329699 L19.5,112.357985" id="Straal-6" transform="translate(19.500000, 93.195477) rotate(-90.000000) translate(-19.500000, -93.195477) "></path>
+            <path d="M22.4920477,47.5655375 L22.4920477,85.8905524" id="Straal-7" transform="translate(22.492048, 66.728045) rotate(288.000000) translate(-22.492048, -66.728045) "></path>
+            <path d="M36.8041672,22.7762194 L36.8041672,61.1012343" id="Straal-8" transform="translate(36.804167, 41.938727) rotate(312.000000) translate(-36.804167, -41.938727) "></path>
+            <path d="M59.9616629,5.95131392 L59.9616629,44.2763288" id="Straal-9" transform="translate(59.961663, 25.113821) rotate(336.000000) translate(-59.961663, -25.113821) "></path>
+        </g>
+        <path d="M59.4603936,146 C59.4603936,123.90861 77.3690036,106 99.4603936,106 C121.551784,106 139.460394,123.90861 139.460394,146 L59.4603936,146 Z" id="half-sun" stroke="#181818" fill="#F5A623"></path>
+    </g>
+</svg>

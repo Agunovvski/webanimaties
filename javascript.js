@@ -8,3 +8,11 @@ function logKey(e) {
     console.log(e);
   }
 }
+
+function revealAnimation() {
+  for (var i = 0; i < h2.length; i++) {
+    h2[i].classList.toggle('animated');
+  }
+}
+
+window.addEventListener('load', revealAnimation);

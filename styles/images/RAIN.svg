@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>RAIN</title>
+    <desc>Created with Sketch.</desc>
+    <g id="RAIN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="druppels" transform="translate(56.000000, 74.000000)" stroke="#9B9B9B">
+            <path d="M0.5,0 L0.5,29" id="druppel-1"></path>
+            <path d="M36.5,0 L36.5,29" id="druppel-2"></path>
+            <path d="M54.5,0 L54.5,32" id="druppel-3"></path>
+            <path d="M84.5,1 L84.5,30" id="druppel-4"></path>
+            <path d="M9.5,0 L9.5,29" id="druppel-5"></path>
+            <path d="M45.5,0 L45.5,32" id="druppel-6"></path>
+            <path d="M75.5,1 L75.5,32" id="druppel-7"></path>
+            <path d="M27.5,0 L27.5,32" id="druppel-8"></path>
+            <path d="M63.5,0 L63.5,29" id="druppel-9"></path>
+            <path d="M93.5,1 L93.5,30" id="druppel-10"></path>
+            <path d="M3.5,0 L3.5,29" id="druppel-11"></path>
+            <path d="M21.5,0 L21.5,32" id="druppel-12"></path>
+            <path d="M57.5,0 L57.5,26" id="druppel-13"></path>
+            <path d="M87.5,1 L87.5,30" id="druppel-14"></path>
+            <path d="M78.5,1 L78.5,26" id="druppel-15"></path>
+            <path d="M30.5,0 L30.5,29" id="druppel-16"></path>
+            <path d="M66.5,0 L66.5,26" id="druppel-17"></path>
+            <path d="M6.5,0 L6.5,33" id="druppel-18"></path>
+            <path d="M42.5,0 L42.5,29" id="druppel-19"></path>
+            <path d="M72.5,1 L72.5,30" id="druppel-20"></path>
+            <path d="M24.5,0 L24.5,32" id="druppel-21"></path>
+            <path d="M60.5,0 L60.5,29" id="druppel-22"></path>
+            <path d="M90.5,1 L90.5,24" id="druppel-23"></path>
+            <path d="M15.5,0 L15.5,29" id="druppel-24"></path>
+            <path d="M51.5,0 L51.5,32" id="druppel-25"></path>
+            <path d="M81.5,1 L81.5,26" id="druppel-26"></path>
+            <path d="M33.5,0 L33.5,32" id="druppel-27"></path>
+            <path d="M0.5,33 L0.5,37.5833333" id="druppel-28"></path>
+            <path d="M36.5,33 L36.5,37.5833333" id="druppel-29"></path>
+            <path d="M18.5,33 L18.5,37.5833333" id="druppel-30"></path>
+            <path d="M54.5,36 L54.5,40.5833333" id="druppel-31"></path>
+            <path d="M84.5,37 L84.5,61.75" id="druppel-32"></path>
+            <path d="M9.5,33 L9.5,37.5833333" id="druppel-33"></path>
+            <path d="M45.5,36 L45.5,40.5833333" id="druppel-34"></path>
+            <path d="M75.5,35 L75.5,39.5833333" id="druppel-35"></path>
+            <path d="M27.5,35 L27.5,40.5" id="druppel-36"></path>
+            <path d="M63.5,33 L63.5,37.5833333" id="druppel-37"></path>
+            <path d="M93.5,34 L93.5,38.5833333" id="druppel-38"></path>
+            <path d="M3.5,33 L3.5,37.5833333" id="druppel-39"></path>
+            <path d="M39.5,33 L39.5,57.75" id="druppel-40"></path>
+            <path d="M21.5,35 L21.5,40.5" id="druppel-41"></path>
+            <path d="M57.5,33 L57.5,37.5833333" id="druppel-42"></path>
+            <path d="M87.5,37 L87.5,54.4166667" id="druppel-43"></path>
+            <path d="M12.5,33 L12.5,50.4166667" id="druppel-44"></path>
+            <path d="M48.5,36 L48.5,40.5833333" id="druppel-45"></path>
+            <path d="M78.5,35 L78.5,39.5833333" id="druppel-46"></path>
+            <path d="M30.5,41 L30.5,61.1666667" id="druppel-47"></path>
+            <path d="M66.5,33 L66.5,50.4166667" id="druppel-48"></path>
+            <path d="M6.5,36 L6.5,41.5" id="druppel-49"></path>
+            <path d="M42.5,33 L42.5,37.5833333" id="druppel-50"></path>
+            <path d="M72.5,34 L72.5,38.5833333" id="druppel-51"></path>
+            <path d="M24.5,35 L24.5,40.5" id="druppel-52"></path>
+            <path d="M60.5,33 L60.5,57.75" id="druppel-53"></path>
+            <path d="M90.5,34 L90.5,38.5833333" id="druppel-54"></path>
+            <path d="M15.5,33 L15.5,37.5833333" id="druppel-55"></path>
+            <path d="M51.5,36 L51.5,40.5833333" id="druppel-56"></path>
+            <path d="M81.5,35 L81.5,39.5833333" id="druppel-57"></path>
+            <path d="M33.5,35 L33.5,40.5" id="druppel-58"></path>
+            <path d="M69.5,33 L69.5,37.5833333" id="druppel-59"></path>
+            <path d="M0.5,39 L0.5,59.625" id="druppel-60"></path>
+            <path d="M36.5,39 L36.5,59.625" id="druppel-61"></path>
+            <path d="M18.5,39 L18.5,59.625" id="druppel-62"></path>
+            <path d="M45.5,42 L45.5,65.5714286" id="druppel-65" transform="translate(45.500000, 54.000000) rotate(-180.000000) translate(-45.500000, -54.000000) "></path>
+            <path d="M75.5,41 L75.5,52.7857143" id="druppel-66"></path>
+            <path d="M27.5,42 L27.5,53.7857143" id="druppel-67"></path>
+            <path d="M63.5,39 L63.5,54.7142857" id="druppel-68"></path>
+            <path d="M93.5,40 L93.5,60.625" id="druppel-69"></path>
+            <path d="M3.5,39 L3.5,59.625" id="druppel-70" transform="translate(3.500000, 49.500000) rotate(-180.000000) translate(-3.500000, -49.500000) "></path>
+            <path d="M21.5,42 L21.5,64.5892857" id="druppel-72"></path>
+            <path d="M57.5,39 L57.5,54.7142857" id="druppel-73"></path>
+            <path d="M42.5,39 L42.5,59.625" id="druppel-81"></path>
+            <path d="M72.5,40 L72.5,60.625" id="druppel-82"></path>
+            <path d="M24.5,42 L24.5,53.7857143" id="druppel-83"></path>
+            <path d="M90.5,40 L90.5,60.625" id="druppel-84"></path>
+            <path d="M51.5,41 L51.5,59.6607143" id="druppel-86"></path>
+            <path d="M81.5,41 L81.5,52.7857143" id="druppel-87"></path>
+            <path d="M69.5,39 L69.5,59.625" id="druppel-89"></path>
+            <path d="M0.5,63 L0.5,71.625" id="druppel-90"></path>
+            <path d="M36.5,63 L36.5,71.625" id="druppel-91"></path>
+            <path d="M18.5,63 L18.5,71.625" id="druppel-92"></path>
+            <path d="M54.5,69 L54.5,78.5833333" id="druppel-93"></path>
+            <path d="M84.5,64 L84.5,72.625" id="druppel-94"></path>
+            <path d="M9.5,56 L9.5,64.625" id="druppel-95"></path>
+            <path d="M45.5,69 L45.5,78.5833333" id="druppel-96"></path>
+            <path d="M75.5,64 L75.5,72.625" id="druppel-97"></path>
+            <path d="M27.5,60 L27.5,69.5833333" id="druppel-98"></path>
+            <path d="M63.5,63 L63.5,71.625" id="druppel-99"></path>
+            <path d="M93.5,64 L93.5,72.625" id="druppel-100"></path>
+            <path d="M3.5,63 L3.5,71.625" id="druppel-101"></path>
+            <path d="M39.5,63 L39.5,71.625" id="druppel-102"></path>
+            <path d="M21.5,68 L21.5,77.5833333" id="druppel-103"></path>
+            <path d="M57.5,63 L57.5,71.625" id="druppel-104"></path>
+            <path d="M87.5,64 L87.5,72.625" id="druppel-105"></path>
+            <path d="M12.5,56 L12.5,64.625" id="druppel-106"></path>
+            <path d="M48.5,69 L48.5,78.5833333" id="druppel-107"></path>
+            <path d="M78.5,55 L78.5,63.625" id="druppel-108"></path>
+            <path d="M30.5,60 L30.5,69.5833333" id="druppel-109"></path>
+            <path d="M66.5,63 L66.5,71.625" id="druppel-110"></path>
+            <path d="M6.5,70 L6.5,80.5416667" id="druppel-111"></path>
+            <path d="M42.5,63 L42.5,71.625" id="druppel-112"></path>
+            <path d="M72.5,64 L72.5,72.625" id="druppel-113"></path>
+            <path d="M24.5,68 L24.5,77.5833333" id="druppel-114"></path>
+            <path d="M60.5,63 L60.5,71.625" id="druppel-115" transform="translate(60.500000, 67.500000) rotate(-180.000000) translate(-60.500000, -67.500000) "></path>
+            <path d="M90.5,64 L90.5,72.625" id="druppel-116"></path>
+            <path d="M15.5,63 L15.5,71.625" id="druppel-117"></path>
+            <path d="M51.5,69 L51.5,78.5833333" id="druppel-118"></path>
+            <path d="M81.5,64 L81.5,72.625" id="druppel-119"></path>
+            <path d="M33.5,60 L33.5,69.5833333" id="druppel-120"></path>
+            <path d="M69.5,65 L69.5,71.625" id="druppel-121"></path>
+            <path d="M0.5,73 L0.5,88.6190476" id="druppel-122"></path>
+            <path d="M18.5,73 L18.5,88.6190476" id="druppel-124"></path>
+            <path d="M54.5,80 L54.5,93.6666667" id="druppel-125"></path>
+            <path d="M84.5,60 L84.5,81.4761905" id="druppel-126" transform="translate(84.500000, 71.000000) rotate(-180.000000) translate(-84.500000, -71.000000) "></path>
+            <path d="M9.5,73 L9.5,88.6190476" id="druppel-127"></path>
+            <path d="M45.5,80 L45.5,93.6666667" id="druppel-128"></path>
+            <path d="M75.5,69 L75.5,84.6190476" id="druppel-129"></path>
+            <path d="M27.5,71 L27.5,88.5714286" id="druppel-130"></path>
+            <path d="M63.5,73 L63.5,84.7142857" id="druppel-131"></path>
+            <path d="M93.5,74 L93.5,95.4761905" id="druppel-132"></path>
+            <path d="M3.5,73 L3.5,88.6190476" id="druppel-133" transform="translate(3.500000, 81.000000) rotate(-180.000000) translate(-3.500000, -81.000000) "></path>
+            <path d="M21.5,79 L21.5,93.6666667" id="druppel-135"></path>
+            <path d="M57.5,73 L57.5,88.6190476" id="druppel-136"></path>
+            <path d="M87.5,69 L87.5,90.4761905" id="druppel-137"></path>
+            <path d="M12.5,73 L12.5,88.6190476" id="druppel-138"></path>
+            <path d="M48.5,80 L48.5,97.5714286" id="druppel-139"></path>
+            <path d="M78.5,60 L78.5,75.6190476" id="druppel-140"></path>
+            <path d="M66.5,73 L66.5,84.7142857" id="druppel-142"></path>
+            <path d="M6.5,82 L6.5,99.5714286" id="druppel-143"></path>
+            <path d="M42.5,73 L42.5,88.6190476" id="druppel-144"></path>
+            <path d="M24.5,79 L24.5,96.5714286" id="druppel-146"></path>
+            <path d="M90.5,74 L90.5,95.4761905" id="druppel-148"></path>
+            <path d="M81.5,60 L81.5,81.4761905" id="druppel-151"></path>
+            <path d="M33.5,71 L33.5,84.6666667" id="druppel-152"></path>
+            <path d="M69.5,73 L69.5,88.6190476" id="druppel-153"></path>
+        </g>
+        <path d="M107.258774,88.6605337 C102.082523,90.1564361 96.2210724,91 90.0119048,91 C69.0185095,91 52,81.3569023 52,69.4615385 C52,65.1284278 54.2582167,61.0941744 58.1441803,57.7160177 C58.1353948,57.5297351 58.1309524,57.3423114 58.1309524,57.1538462 C58.1309524,50.6963629 63.3463021,45.4615385 69.7797619,45.4615385 C70.4085108,45.4615385 71.025625,45.5115382 71.6273734,45.6077923 C71.8733756,38.6878827 77.5398442,33.1538462 84.4940476,33.1538462 C86.8711557,33.1538462 89.0978009,33.8004601 91.0089231,34.9280118 C92.9551031,30.2710102 97.5404324,27 102.886905,27 C107.936657,27 112.307406,29.9180141 114.416792,34.1657739 C117.167031,33.5080212 120.089581,33.1538462 123.119048,33.1538462 C139.371999,33.1538462 152.547619,43.347978 152.547619,55.9230769 C152.547619,57.0151479 152.44825,58.0892618 152.256127,59.1403015 C154.021107,61.9248166 155,64.9991726 155,68.2307692 C155,80.8058681 140.177427,91 121.892857,91 C116.639188,91 111.671332,90.1583991 107.258774,88.6605337 L107.258774,88.6605337 Z" id="cloud" stroke="#181818" fill="#9B9B9B"></path>
+    </g>
+</svg>

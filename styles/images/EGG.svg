@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>EGG</title>
+    <desc>Created with Sketch.</desc>
+    <g id="EGG" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="ei-wit-outline" stroke="#181818" cx="100" cy="100" r="75"></circle>
+        <circle id="ei-geel" stroke="#181818" fill="#F8E71C" cx="100" cy="100" r="30"></circle>
+    </g>
+</svg>

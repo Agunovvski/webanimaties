@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>SUN</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SUN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="zon-bruin" stroke="#181818" fill="#8B572A" cx="100" cy="100" r="30"></circle>
+        <g id="zonnestralen" transform="translate(24.449210, 25.000000)" stroke="#8B572A">
+            <path d="M75.5507895,0 L75.5507895,35.898421" id="zonnestraal-1"></path>
+            <path d="M93.180453,2.79226439 L93.180453,38.6906854" id="zonnestraal-2" transform="translate(93.180453, 20.741475) rotate(18.000000) translate(-93.180453, -20.741475) "></path>
+            <path d="M109.084402,10.8957313 L109.084402,46.7941522" id="zonnestraal-3" transform="translate(109.084402, 28.844942) rotate(36.000000) translate(-109.084402, -28.844942) "></path>
+            <path d="M121.705848,23.5171768 L121.705848,59.4155978" id="zonnestraal-4" transform="translate(121.705848, 41.466387) rotate(54.000000) translate(-121.705848, -41.466387) "></path>
+            <path d="M129.809315,39.421126 L129.809315,75.319547" id="zonnestraal-5" transform="translate(129.809315, 57.370336) rotate(72.000000) translate(-129.809315, -57.370336) "></path>
+            <path d="M132.601579,57.0507895 L132.601579,92.9492105" id="zonnestraal-6" transform="translate(132.601579, 75.000000) rotate(90.000000) translate(-132.601579, -75.000000) "></path>
+            <path d="M129.809315,74.680453 L129.809315,110.578874" id="zonnestraal-7" transform="translate(129.809315, 92.629664) rotate(108.000000) translate(-129.809315, -92.629664) "></path>
+            <path d="M121.705848,90.5844022 L121.705848,126.482823" id="zonnestraal-8" transform="translate(121.705848, 108.533613) rotate(126.000000) translate(-121.705848, -108.533613) "></path>
+            <path d="M109.084402,103.205848 L109.084402,139.104269" id="zonnestraal-9" transform="translate(109.084402, 121.155058) rotate(144.000000) translate(-109.084402, -121.155058) "></path>
+            <path d="M93.180453,111.309315 L93.180453,147.207736" id="zonnestraal-10" transform="translate(93.180453, 129.258525) rotate(162.000000) translate(-93.180453, -129.258525) "></path>
+            <path d="M75.5507895,114.101579 L75.5507895,150" id="zonnestraal-11" transform="translate(75.550790, 132.050790) rotate(180.000000) translate(-75.550790, -132.050790) "></path>
+            <path d="M57.921126,111.309315 L57.921126,147.207736" id="zonnestraal-12" transform="translate(57.921126, 129.258525) rotate(198.000000) translate(-57.921126, -129.258525) "></path>
+            <path d="M42.0171768,103.205848 L42.0171768,139.104269" id="zonnestraal-13" transform="translate(42.017177, 121.155058) rotate(216.000000) translate(-42.017177, -121.155058) "></path>
+            <path d="M29.3957313,90.5844022 L29.3957313,126.482823" id="zonnestraal-14" transform="translate(29.395731, 108.533613) rotate(234.000000) translate(-29.395731, -108.533613) "></path>
+            <path d="M21.2922644,74.680453 L21.2922644,110.578874" id="zonnestraal-15" transform="translate(21.292264, 92.629664) rotate(252.000000) translate(-21.292264, -92.629664) "></path>
+            <path d="M18.5,57.0507895 L18.5,92.9492105" id="zonnestraal-16" transform="translate(18.500000, 75.000000) rotate(270.000000) translate(-18.500000, -75.000000) "></path>
+            <path d="M21.2922644,39.421126 L21.2922644,75.319547" id="zonnestraal-17" transform="translate(21.292264, 57.370336) rotate(288.000000) translate(-21.292264, -57.370336) "></path>
+            <path d="M29.3957313,23.5171768 L29.3957313,59.4155978" id="zonnestraal-18" transform="translate(29.395731, 41.466387) rotate(306.000000) translate(-29.395731, -41.466387) "></path>
+            <path d="M42.0171768,10.8957313 L42.0171768,46.7941522" id="zonnestraal-19" transform="translate(42.017177, 28.844942) rotate(324.000000) translate(-42.017177, -28.844942) "></path>
+            <path d="M57.921126,2.79226439 L57.921126,38.6906854" id="zonnestraal-20" transform="translate(57.921126, 20.741475) rotate(342.000000) translate(-57.921126, -20.741475) "></path>
+        </g>
+    </g>
+</svg>
