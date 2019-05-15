@@ -1,6 +1,10 @@
-var h2 = document.querySelectorAll('h2');
+// Variabels
 
-document.onkeypress = logKey;
+var h2 = document.querySelectorAll('h2');
+var svgElement = document.querySelectorAll('svg');
+
+
+// functions
 
 function logKey(e) {
   for (var i = 0; i < h2.length; i++) {
@@ -15,4 +19,16 @@ function revealAnimation() {
   }
 }
 
+function triggerSVG(e) {
+    e.target.classList.toggle('svgAnimation');
+}
+
+
+// addEventListeners
+
+document.onkeypress = logKey;
+
 window.addEventListener('load', revealAnimation);
+for (var i = 0; i < svgElement.length; i++) {
+  svgElement[i].addEventListener('click', triggerSVG);
+}
