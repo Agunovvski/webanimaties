@@ -15,8 +15,6 @@ h1, h2, p {
   font-family: 'Roboto', sans-serif;
 }
 
-p {
-}
 
 h1 {
   font-size: 4rem;
@@ -29,7 +27,10 @@ h1:hover {
 h2 {
   font-size: 10rem;
   transition: all 2s ease;
+  /* transform: scale(1) skew(0deg, 0deg); */
 }
+
+
 
 .animated {
   animation: reveal 3s ease-out alternate;
@@ -46,6 +47,7 @@ h2 {
 
 h2:hover {
   font-size: 20rem;
+  /* transform: scale(1.2) skew(30deg, 20deg); */
 }
 
 
@@ -195,6 +197,12 @@ display: none;
 svg {
   width: 150px;
   height: auto;
+  transform: scale(1) skew(0, 0);
+  transition: all 1s ease;
+}
+
+svg:hover {
+  transform: scale(1.2) skew(30deg, 20deg);
 }
 
 .svgAnimation {
