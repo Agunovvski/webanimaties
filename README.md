@@ -17,22 +17,24 @@ Ik heb toegevoegd:
 
 * Click `svgElement[i].addEventListener('click', triggerSVG);`
 * Hover `.container-grid div:hover`
-* Double Click `p.addEventListener('dblclick', scaleThis);`
+* Double Click `p.addEventListener('dblclick', scaleThis); // dblclick event src = https://developer.mozilla.org/en-US/docs/Web/API/Element/dblclick_event`
 * Load `window.addEventListener('load', revealAnimation);`
-* Keyboard Event `document.addEventListener('keydown', logKey);`
-* Wheel `h1.addEventListener('wheel', zoom);`
+* Keyboard Event `document.addEventListener('keydown', logKey); // keydown src =  https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event`
+* Wheel `h1.addEventListener('wheel', zoom); // zoom event src = https://developer.mozilla.org/en-US/docs/Web/API/Element/wheel_event`
 * Context Menu (rechtermuis click) `p.addEventListener('contextmenu', glowThis);`
 
 Met deze events trigger trigger ik van allerlei animaties en transities.
 
 ### Animatie
 
-Animeer mijn SVG's met:
-`@keyframes dash {
+Animatie van SVG:
+```
+@keyframes dash {
   to {
     stroke-dashoffset: 0;
   }
-}`
+}
+```
 
 Scale letters animatie met: 
 ```@keyframes scaleIt {
@@ -47,7 +49,8 @@ Scale letters animatie met:
   100% {
     transform: scale(1);
   }
-}```
+}
+```
 
 Glowing animation met: 
 ```@keyframes glowing {
@@ -78,10 +81,26 @@ Glowing animation met:
     box-shadow: 0px 0px 0px 0px rgb(199, 60, 17);
   }
   
-}```
+}
+
+```
 
 
 ### Responsiveness
+
+Mediaqueries
+
+
+Tablet
+```
+@media (min-width: 480px) and (max-width: 1024px)
+```
+
+Mobile
+```
+@media (min-width: 320px) and (max-width: 480px)
+```
+
 
 
 
