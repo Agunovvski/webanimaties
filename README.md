@@ -28,11 +28,11 @@ Met deze events trigger trigger ik van allerlei animaties en transities.
 ### Animatie
 
 Animeer mijn SVG's met:
-```@keyframes dash {
+`@keyframes dash {
   to {
     stroke-dashoffset: 0;
   }
-}```
+}`
 
 Scale letters animatie met: 
 ```@keyframes scaleIt {
