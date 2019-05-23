@@ -86,10 +86,13 @@ Glowing animation met:
 
 ```
 
+
+
 ### States
 
 * :hover `.container-grid div:hover`
 * :focus `input:focus`
+
 
 
 
@@ -98,12 +101,12 @@ Glowing animation met:
 Mediaqueries
 
 
-Tablet
+Tablet - voornamelijk de Grid en Padding veranderen hier om het in de viewport te passen.
 ```
 @media (min-width: 480px) and (max-width: 1024px)
 ```
 
-Mobile
+Mobile - Grid is 2x2 geworden en een input field verschijnt om toch op mobiel de letters te veranderen. (mobiel heeft geen toetsenbord en heeft een input field nodig)
 ```
 @media (min-width: 320px) and (max-width: 480px)
 ```
