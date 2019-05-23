@@ -15,6 +15,9 @@ h1, h2, p {
   font-family: 'Roboto', sans-serif;
 }
 
+p {
+}
+
 h1 {
   font-size: 4rem;
 }
@@ -162,6 +165,7 @@ display: none;
 }
 
 .metadata {
+  width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -196,7 +200,7 @@ svg {
 .svgAnimation {
   stroke-dasharray: 1000;
   stroke-dashoffset: 1000;
-  animation: dash 6s ease alternate forwards;
+  animation: dash 6s ease alternate;
 }
 
 @keyframes dash {
@@ -214,14 +218,17 @@ svg {
 @keyframes scaleIt {
   0% {
     transform: scale(1);
+    transform: rotate(-60deg);
   }
 
   50% {
     transform: scale(1.5);
+    transform: rotate(60deg);
   }
 
   100% {
     transform: scale(1);
+    transform: rotate(-60deg);
   }
 }
 
@@ -274,12 +281,15 @@ svg {
 @media (min-width: 480px) and (max-width: 1024px) {
 
   body{
-    padding: 1.5rem 5rem 1.5rem 5rem;
+    padding: 1.5rem 4rem 1.5rem 4rem;
 
   }
 
   .metadata {
     margin: 1.5rem 0;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
   }
 
   .container-grid {
@@ -321,13 +331,13 @@ svg {
 
   .metadata input {
     opacity: 1;
-    transition: all 2s ease;
+    transition: all .5s ease;
     margin-top: 1rem;
   }
 
   input:focus {
     box-shadow: 0.2rem .3rem .3rem #181818;
-    width: 200px;
+    width: 250px;
   }
 
 
