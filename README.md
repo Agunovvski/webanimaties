@@ -28,14 +28,14 @@ Met deze events trigger trigger ik van allerlei animaties en transities.
 ### Animatie
 
 Animeer mijn SVG's met:
-`@keyframes dash {
+```@keyframes dash {
   to {
     stroke-dashoffset: 0;
   }
-}`
+}```
 
 Scale letters animatie met: 
-`@keyframes scaleIt {
+```@keyframes scaleIt {
   0% {
     transform: scale(1);
   }
@@ -47,11 +47,10 @@ Scale letters animatie met:
   100% {
     transform: scale(1);
   }
-}`
+}```
 
 Glowing animation met: 
-`
-@keyframes glowing {
+```@keyframes glowing {
 
   0% {
     -moz-box-shadow: 0px 0px 0px 0px rgb(199, 60, 17);
@@ -79,7 +78,7 @@ Glowing animation met:
     box-shadow: 0px 0px 0px 0px rgb(199, 60, 17);
   }
   
-}`
+}```
 
 
 ### Responsiveness
