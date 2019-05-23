@@ -29,7 +29,7 @@ h2 {
 }
 
 .animated {
-  animation: reveal 3s ease-in;
+  animation: reveal 3s ease-out alternate;
 }
 
 @keyframes reveal {
@@ -45,60 +45,90 @@ h2:hover {
   font-size: 20rem;
 }
 
-/* .container-grid div:nth-child(2) h2{
-  position: relative;
-  left: 40%;
-  top: 10%; */
-  /* transform: rotate(90deg); */
-/* } */
 
-.container-grid div:nth-child(3) h2{
+
+.container-grid div h2 {
   position: relative;
+}
+
+.container-grid div:nth-child(3) h2 {
   left: 20%;
   top: 10%;
   transform: rotate(-60deg);
 }
 
 .container-grid div:nth-child(4) h2{
-  position: relative;
   left: 20%;
   top: 10%;
   transform: rotate(100deg);
 }
 
 .container-grid div:nth-child(5) h2{
-  position: relative;
   right: 20%;
   top: 10%;
   transform: rotate(180deg);
 }
 
 .container-grid div:nth-child(6) h2{
-  position: relative;
   right: 20%;
   top: 10%;
   transform: rotate(210deg);
 }
 
 .container-grid div:nth-child(7) h2{
-  position: relative;
   left: 20%;
   top: 10%;
   transform: rotate(-210deg);
 }
 
 .container-grid div:nth-child(8) h2{
-  position: relative;
-  left: 10%;
-  /* top: 20%; */
+  left: 63%;
   transform: rotate(10deg);
 }
 
 .container-grid div:nth-child(9) h2{
-  position: relative;
-  right: 10%;
-  /* top: 20%; */
+  right: 34%;
   transform: rotate(30deg);
+}
+
+.container-grid div:nth-child(11) h2 {
+  right: 10%;
+  transform: rotate(7deg);
+}
+
+.container-grid div:nth-child(12) h2 {
+  right: 10%;
+  transform: rotate(78deg);
+}
+
+.container-grid div:nth-child(14) h2 {
+  right: 14%;
+  transform: rotate(-35deg);
+}
+
+.container-grid div:nth-child(15) h2 {
+  right: 19%;
+  transform: rotate(167deg);
+}
+
+.container-grid div:nth-child(17) h2 {
+  right: 14%;
+  transform: rotate(100deg);
+}
+
+.container-grid div:nth-child(18) h2 {
+  right: 10%;
+  transform: rotate(-80deg);
+}
+
+.container-grid div:nth-child(19) h2 {
+  right: 30%;
+  transform: rotate(50deg);
+}
+
+.container-grid div:nth-child(20) h2 {
+  right: 20%;
+  transform: rotate(300deg);
 }
 
 
@@ -111,12 +141,14 @@ h2:hover {
   height: 100%;
 }
 
+/*  hide scrollbar in FireFox https: //stackoverflow.com/questions/20997183/how-to-hide-scrollbar-in-firefox */
 .container-grid div {
   border: 1px solid #181818;
   display: flex;
   justify-content: center;
   height: 100px;
   overflow: scroll;
+  scrollbar-width: none;
   transition: all .5s;
   background-color: none;
 }
@@ -143,6 +175,13 @@ display: none;
   font-size: .75rem;
 }
 
+.metadata input {
+  opacity: 0;
+  transition: all 2s ease;
+  width: 100px;
+  padding: 10px;
+}
+
 
 
 
@@ -155,15 +194,70 @@ svg {
 }
 
 .svgAnimation {
-  stroke-dasharray: 20;
-  stroke-dashoffset: 20;
-  animation: dash 2s ease forwards;
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 6s ease alternate forwards;
 }
 
 @keyframes dash {
   to {
-    stroke-dashoffset: 100;
+    stroke-dashoffset: 0;
   }
+}
+
+
+.scaleNow {
+  animation: scaleIt 2s cubic-bezier(.57, -0.36, .38, 1.53) forwards;
+}
+
+
+@keyframes scaleIt {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.5);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+ .glowNow{
+  animation: glowing 5s ease alternate;
+}
+
+
+@keyframes glowing {
+
+  0% {
+    -moz-box-shadow: 0px 0px 0px 0px rgb(199, 60, 17);
+    box-shadow: 0px 0px 0px 0px rgb(199, 60, 17);
+  }
+
+
+  40% {
+    -moz-box-shadow: 0px 0px 30px 10px rgb(199, 60, 17);
+    box-shadow: 0px 0px 30px 10px rgb(199, 60, 17);
+  }
+
+  60% {
+    -moz-box-shadow: 0px 0px 40px 7px rgb(199, 60, 17);
+    box-shadow: 0px 0px 40px 7px rgb(199, 60, 17);
+  }
+
+  95% {
+    -moz-box-shadow: 0px 0px 50px 5px rgb(199, 60, 17);
+    box-shadow: 0px 0px 50px 5px rgb(199, 60, 17);
+  }
+
+  100% {
+    -moz-box-shadow: 0px 0px 0px 0px rgb(199, 60, 17);
+    box-shadow: 0px 0px 0px 0px rgb(199, 60, 17);
+  }
+
 }
 
 /* END SVG ANIMATION */
@@ -223,6 +317,17 @@ svg {
 
   h2 {
     font-size: 4rem;
+  }
+
+  .metadata input {
+    opacity: 1;
+    transition: all 2s ease;
+    margin-top: 1rem;
+  }
+
+  input:focus {
+    box-shadow: 0.2rem .3rem .3rem #181818;
+    width: 200px;
   }
 
 
