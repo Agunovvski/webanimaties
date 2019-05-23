@@ -8,7 +8,8 @@ Link naar website: https://agunovvski.github.io/webanimaties/
 ![main poster](https://assets.fontsinuse.com/static/use-media-items/47/46045/upto-700xauto/583e7014/2_Moderna-Museet_MMM-plakat_353_500.jpeg?resolution=0)
 ![alternative posterse](https://i.etsystatic.com/8628069/r/il/3e628e/1070729354/il_794xN.1070729354_7gah.jpg)
 
-De gekozen poster is van de Zweedse Moderna Museet (museum) dat hoort bij een series advertenties. Ik heb beide posters gecombineerd zodat ik gebruik kon maken van de illustraties om het te laten animeren en bij de main poster de letters te animeren.
+De gekozen poster is van de Zweedse Moderna Museet (museum) dat hoort bij een series advertenties. Ik heb beide posters gecombineerd zodat ik bij de ene gebruik kon maken van de illustraties om het te laten animeren en bij de main poster de letters te animeren.
+Het concept draait om de grid, letters en svg's die erbinnen zit. Op de website is van alles interactief en vuren allerlei animaties.
 
 
 ### Interactie
